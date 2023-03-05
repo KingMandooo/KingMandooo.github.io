@@ -297,5 +297,9 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true  # 목차 기능
+      toc_sticky: true # 목차 스크롤 따라오는 기능
+      toc_label: INDEX # 목차 이름 바꾸기
+      #toc_icon: # 목차 아이콘 변경
 
 date_format: "%Y-%m-%d"
