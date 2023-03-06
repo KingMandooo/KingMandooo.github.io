@@ -8,7 +8,7 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 25px; // Default 16px;
+  font-size: 18px; // Default 16px;  모바일 환경(?)
 
   @include breakpoint($medium) {
     font-size: 25px;  // Default 18px;
