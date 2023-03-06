@@ -8,18 +8,18 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 20px; // 폰트 변경해보기 default: 16
+  font-size: 30px; // 폰트 변경해보기 default: 16
 
   @include breakpoint($medium) {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   @include breakpoint($large) {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   @include breakpoint($x-large) {
-    font-size: 20px;
+    font-size: 30px;
   }
 
   -webkit-text-size-adjust: 100%;
