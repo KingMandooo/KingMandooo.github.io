@@ -156,7 +156,11 @@ kbd,
 samp,
 pre {
   font-family: $monospace;
+  
   font-size: 0.9em;  // 코드 폰트 크기 변경해 보기
+  border-radius: 5px;
+  margin: 0.5rem auto;
+  line-height: 130%;
 }
 
 pre {
