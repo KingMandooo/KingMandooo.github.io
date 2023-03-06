@@ -2,11 +2,11 @@
 main:                  # 블로그 우측 상단 목차
   - title: "Category"
     url: /categories/
-  - title: "Tag"
+  - title: "Tag"       # 우측 상단 위 태그 별 정리
     url: /tags/
-  - title: "By Year"
+  - title: "By Year"   # 우측 상단 위 포스팅 연도별로 정리
     url: /year-archive-grid/
-  - title: "Search"
+  - title: "Search"    # 우측 상단 위 검색 기능
     url: /search/
 
 docs:               # 블로그 왼쪽 목차 / 우선 각 포스팅 마다..
