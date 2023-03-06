@@ -34,8 +34,8 @@
             <span class="nav__sub-title">Blog</span>
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "Blog" %}
-                        <li><a href="/blog/" class="">잡담 ({{category[1].size}})</a></li>
+                    {% if category[0] == "Chat" %}
+                        <li><a href="/chat/" class="">잡담 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
