@@ -9,13 +9,13 @@ main:                  # 블로그 우측 상단 목차
   - title: "Search"    # 우측 상단 위 검색 기능
     url: /search/
 
-docs:               # 블로그 왼쪽 목차 / 우선 각 포스팅 마다..
+docs:               # 블로그 왼쪽 목차 / 우선 각 포스팅 마다
   - title: "목차1"
     children:
       - title: "Category"
         url : /categories/
       - title: "Tag"
-        url: /tags/
+        url: /tags/ 
 
   - title: "목차2"
     children:
