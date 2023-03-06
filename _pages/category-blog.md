@@ -1,5 +1,5 @@
 ---
-title: "잡담"
+title: "Blog"
 layout: archive
 permalink: /blog/
 author_profile: true

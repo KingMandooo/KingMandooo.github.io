@@ -35,7 +35,7 @@
             <!--ul 태그로 같은 카테고리들 모아둔 페이지들 나열-->
             <ul>
                 {% for category in site.categories %}
-                    {% if category[0] == "잡담" %}
+                    {% if category[0] == "Blog" %}
                         <li><a href="/blog/" class="">잡담 ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
