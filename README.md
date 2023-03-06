@@ -54,3 +54,10 @@ search: false                    # 포스팅 검색 가능 여부 기능
 <!-- [Text](#link){: .btn .btn--danger}   버튼 추가하기 링크 칸에 링크 써놓기 -->
 [YouTube](https://youtube.com){: .btn .btn--danger}
 ```
+
+```
+(참고로 .img-width-half는 유튜브보고 따로 만든 기능)
+
+<!-- 이미지 크기 조정 (가운데 정렬까지 추가) //  .align-left, .align-right 기능 또한 있음-->
+![kingmandooo](/assets/images/kingmandooo.png){: .img-width-half .align-center}  
+```
