@@ -52,8 +52,7 @@ tag: [blog, jekyll] # 태그 기능
 **열공해보겠다.**
 
 <div class="notice">  
-    <ul>
-        <li> 블로그를 만드는 데에 도움을 주신 분들 </li>
+블로그를 만드는 데에 도움을 주신 분들
         <ul> 
            <li><a href="https://www.youtube.com/@teddynote">테디노트</a></li>
            <li><a href="https://ansohxxn.github.io/index.html">공부하는 식빵맘 블로그</a></li>
