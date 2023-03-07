@@ -1,5 +1,7 @@
 # 블로그 운영 (자주 쓰는 기능)
 
+<https://kingmandooo.github.io>
+
 **github Actions를 통해 블로그에 언제 배포되는 지를 확인 할 수 있음**
 
 ---
