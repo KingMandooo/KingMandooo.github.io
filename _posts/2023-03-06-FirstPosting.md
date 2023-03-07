@@ -51,7 +51,7 @@ tag: [blog, jekyll] # 태그 기능
 
 **열공해보겠다.**
 
-<div class="notice--default">  
+<div class="notice">  
     <ul>
         <li> 블로그를 만드는 데에 도움을 주신 분들 </li>
         <ul> 
