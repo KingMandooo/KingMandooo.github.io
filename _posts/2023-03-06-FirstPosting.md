@@ -57,7 +57,6 @@ tag: [blog, jekyll] # 태그 기능
            <li><a href="https://www.youtube.com/@teddynote">테디노트</a></li>
            <li><a href="https://ansohxxn.github.io/index.html">공부하는 식빵맘 블로그</a></li>
         </ul> 
-    </ul> 
 </div>
 
 
